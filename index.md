@@ -1,29 +1,13 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/second47/valkyrieself/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Valkyrie Selfbot
 
-### Markdown
+- Valkyrie é um selfbot compressível com uma função que é derrubar um servidor em menos de milésimos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Desenvolvedores: Kristian & Kento
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Compre Agora!](url) and ![Image](https://cdn.discordapp.com/attachments/764569199711354880/775515569423646740/The-Valkyries-1280x720.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -32,6 +16,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/second47/valkyrieself/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contactos
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kento Yamazaki
+Tag: #0001
+
+Kristian
+Tag: #0047
